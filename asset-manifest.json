@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anime-News/static/css/main.f7460577.css",
+    "main.js": "/Anime-News/static/js/main.1327987b.js",
+    "index.html": "/Anime-News/index.html",
+    "main.f7460577.css.map": "/Anime-News/static/css/main.f7460577.css.map",
+    "main.1327987b.js.map": "/Anime-News/static/js/main.1327987b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7460577.css",
+    "static/js/main.1327987b.js"
+  ]
+}
